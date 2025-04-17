@@ -20,7 +20,6 @@ Semua progress, catatan, eksperimen, hingga project mini akan didokumentasikan d
 | 08 | [IaC - Terraform](./08-iac-terraform) | Infrastructure as Code dengan Terraform |
 | 09 | [Monitoring & Logging](./09-monitoring-logging) | Observabilitas menggunakan Grafana, Prometheus, dan ELK |
 | 10 | [Projects](./10-projects) | Project nyata DevOps dari simple sampai kompleks |
-| 11 | [Interview Prep](./11-interview-prep) | Kumpulan soal dan tips wawancara DevOps |
 
 ---
 
@@ -31,33 +30,11 @@ Semua progress, catatan, eksperimen, hingga project mini akan didokumentasikan d
 
 > *Link ini akan terus diupdate sesuai perkembangan pembelajaran.*
 
----
-
-## 💡 Motivasi
-
-> *"Setiap baris konfigurasi, setiap error, dan setiap deploy gagal adalah guru terbaikku."*  
-> — Seorang DevOps yang belum ngopi
-
-Aku percaya bahwa **konsistensi dan dokumentasi** adalah senjata utama di dunia DevOps.  
-Repo ini bukan hanya untukku, tapi juga buat kamu yang sedang berjalan di jalur yang sama. Yuk kita berkembang bareng!
-
----
-
 ## 📬 Kontak & Networking
 
-Punya saran, masukan, atau mau diskusi bareng soal DevOps?  
 Reach me out via:
 
 - Email: [youremail@example.com](mailto:youremail@example.com)
 - LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-
----
-
-## 📌 License
-
-Repo ini bebas digunakan untuk pembelajaran pribadi dan non-komersial.  
-Feel free to fork, star, atau kontribusi ya!
-
----
 
 🎯 *Stay learning. Stay deploying.*
