@@ -34,7 +34,7 @@ Semua progress, catatan, eksperimen, hingga project mini akan didokumentasikan d
 
 Reach me out via:
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- Email: [mochamadabdulrouf1@gmail.com](mailto:mochamadabdulrouf1@gmail.com)
+- LinkedIn: [www.linkedin.com/in/mochamad-abdul-rouf-212200700000212232](www.linkedin.com/in/mochamad-abdul-rouf-212200700000212232)
 
 🎯 *Stay learning. Stay deploying.*
