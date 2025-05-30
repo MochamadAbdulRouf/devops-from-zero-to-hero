@@ -26,7 +26,7 @@ Semua progress, catatan, eksperimen, hingga project mini akan didokumentasikan d
 ## 📂 Dokumentasi Lengkap (Google Drive)
 
 📎 Semua catatan tambahan, PDF, mindmap, dan cheat sheet bisa diakses di sini:  
-👉 [Klik untuk buka dokumentasi di Google Drive][https://drive.google.com/your-link-di-sini][https://drive.google.com/drive/folders/19t6L7riW1CLgUPf5uME72ZQt9m_1hyLw?usp=sharing]
+👉 [Klik untuk buka dokumentasi di Google Drive][https://drive.google.com/drive/folders/19t6L7riW1CLgUPf5uME72ZQt9m_1hyLw?usp=sharing]
 
 > *Link ini akan terus diupdate sesuai perkembangan pembelajaran.*
 
